@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Dancing Script";
+  src: url("./assets/Dancing_Script/DancingScript-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Dancing Script";
+  src: url("./assets/Dancing_Script/DancingScript-VariableFont_wght.ttf") format("truetype");
+  font-weight: 700;
+}
+
+
+.dance {
+  font-family: "Dancing Script", cursive;
+  font-weight: 700; 
+}
