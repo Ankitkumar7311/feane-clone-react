@@ -60,7 +60,7 @@ const Cards = () => {
       price: [{ cost: "$16", cart: "🛒" }],
     },
     {
-      img: `${d6}`,
+      img: `${d11}`,
       content: "Delicious Pizza",
       para: "Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
       price: [{ cost: "$22", cart: "🛒" }],
